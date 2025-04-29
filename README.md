@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on [Robot projects]([url](https://robotframework.org/))
 - 🤔 I’m looking for help with Selenium projects
 - 💬 Ask me about Selenium
-- 📫 How to reach me: maioto:p.pablomartin27@gmail.com or [Linkedin]([url](https://www.linkedin.com/in/pabllomartin/))
+- 📫 How to reach me: p.pablomartin27@gmail.com or [Linkedin]([url](https://www.linkedin.com/in/pabllomartin/))
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a DJ on free time and a gym rat!
 
