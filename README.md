@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi people 👋
 
-<!--
-**pabllomartin27/pabllomartin27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>I'm Pablo Martin!</b>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Cypress]([url](https://www.cypress.io/)) 
+- 🌱 I’m currently learning more Cypress!
+- 👯 I’m looking to collaborate on Python projects
+- 🤔 I’m looking for help with Selenium projects
+- 💬 Ask me about Selenium
+- 📫 How to reach me: maioto:p.pablomartin27@gmail.com or [Linkedin]([url](https://www.linkedin.com/in/pabllomartin/))
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a DJ on free time and a gym rat!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Best regards from Brazil!
