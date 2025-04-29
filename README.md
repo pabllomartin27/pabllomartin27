@@ -2,7 +2,7 @@
 
 <b>I'm Pablo Martin!</b>
 
-- 🔭 I’m currently working on [Cypress]([url](https://www.cypress.io/)) 
+- 🔭 I’m currently working on [Cypress](https://www.cypress.io/)
 - 🌱 I’m currently learning more Cypress!
 - 👯 I’m looking to collaborate on [Robot projects]([url](https://robotframework.org/))
 - 🤔 I’m looking for help with Selenium projects
